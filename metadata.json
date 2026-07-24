@@ -1,0 +1,6 @@
+{
+  "name": "Armacell Industrial Performance Analytics",
+  "description": "Comparative UI performance analytics and interactive technical compliance showcase for industrial insulation standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
